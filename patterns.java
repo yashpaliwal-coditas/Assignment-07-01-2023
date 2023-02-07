@@ -72,7 +72,7 @@ public class patterns {
             System.out.println();
         }
         System.out.println();
-        for(int i=1;i<=5;i++){
+        for(int i=1;i<=6;i++){
             char ch='A';
             for(int j=1;j<=i;j++){
 
@@ -146,6 +146,7 @@ public class patterns {
 //        ABCBA
 //        ABCDCBA
 //        ABCDEDCBA
+//        ABCDEFEDCBA
 //
 //        Process finished with exit code 0
     }
